@@ -8,6 +8,6 @@ func main() {
 	fmt.Println("Git checkout")
 	fmt.Println("Git push")
 	fmt.Println("Git amend")
-	fmt.Println("Git merge")
-	fmt.Println("Git branch")
+	fmt.Println("Git merge again")
+	fmt.Println("Git branch with -a")
 }
