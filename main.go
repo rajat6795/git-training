@@ -10,4 +10,6 @@ func main() {
 	fmt.Println("Git amend")
 	fmt.Println("Git merge again")
 	fmt.Println("Git branch with -a")
+	fmt.Println("conflicted Git merge")
+	fmt.Println("conflicted Git branch")
 }
